@@ -1,3 +1,5 @@
+# Red Paper Plane
+
 A fancy rainmeter skin with a paper plane which follows the mouse. It also includes a working solar system, music visualizers, a weather widget and other stuff. This project is from 2016, so may not be up to date.
 
 # Showcase  
@@ -5,7 +7,8 @@ A fancy rainmeter skin with a paper plane which follows the mouse. It also inclu
 ***
 
 ![](media/gifs/3_plane.gif)
-![](media/gifs/6_music.gif)
+![](media/gifs/5_weather.gif)
+![](media/gifs/4_solar_system.gif)
 ![](media/images/1_plane.png)
 ![](media/images/2_three_monitors.png)
 ![](media/images/11_solar_system.png)
